@@ -4,11 +4,7 @@ import List from "./ingrediantList";
 import { getRecipeFromMistral } from "../api";
 
 export default function Entry() {
-  const [ingriadeints, setIngraidents] = useState([
-    "onion",
-    "potato",
-    "tomatto",
-  ]);
+  const [ingriadeints, setIngraidents] = useState("");
 
   function addIng(e) {
     e.preventDefault();

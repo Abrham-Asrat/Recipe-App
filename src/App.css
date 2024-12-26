@@ -179,9 +179,10 @@ ul.ingredients-list > li {
   line-height: 28px;
   font-size: 1.125rem;
   font-weight: 400;
+  padding-top: 2rem;
 }
 
 .suggested-recipe-container ul li,
 .suggested-recipe-container ol li {
-  margin-bottom: 8px;
+  margin-bottom: 1rem;
 }

@@ -8,7 +8,7 @@ export default function Header() {
             alt=""
             className="logo"
           />
-          <h2 className="logo-title">Chef Claude</h2>
+          <h2 className="logo-title">Food Recipe Finder</h2>
         </article>
       </header>
     </>
