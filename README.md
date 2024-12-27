@@ -1,10 +1,10 @@
-# React simple project
+# React simple project  
 
 ## **🍕food-recipe-finder**
 
 #### **A React app that helps you find delicious recipes!**
 
-This React application allows users to input a list of ingredients and receive one recommended food recipe based on those ingredients. It utilizes a Hugging Face model for recipe generation.
+This React application allows users to input a list of ingredients and receive one recommended food recipe based on those ingredients. It utilizes a Hugging Face model for recipe generation. link: https://food-recipe-app12.netlify.app/
 
 ##### **🎁Prerequisites**
 
