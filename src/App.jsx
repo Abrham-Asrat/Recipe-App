@@ -1,6 +1,6 @@
 import Header from "./component/header";
 import Entry from "./component/entry";
-import "APP.css";
+import "./APP.css";
 export default function App() {
   return (
     <>
